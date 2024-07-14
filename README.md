@@ -1,5 +1,8 @@
 # Projets de Machine Learning en R
 
+## Auteurs
+- **LECKOMBA-OWOCKA Jude Luther**
+
 Ce dépôt contient mes divers projets de machine learning implémentés en R. Ces projets couvrent une gamme de techniques et d'algorithmes, y compris la régression logistique, la régression multinomiale, la régression logistique pénalisée, et plus encore. Chaque script démontre un aspect différent du machine learning, de la classification à l'analyse de régression.
 
 ## Table des Matières
